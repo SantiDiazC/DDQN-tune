@@ -1,0 +1,17 @@
+---
+#hyperparameters
+lr: 0.0005
+gamma: [0.98]
+max_episode: 10000
+batch_size: [32, 64, 128, 256]
+buffer_limit: [50000]
+initial_exp: [1000, 2000, 3000, 4000]
+metric: score
+mode: max
+num_samples: 4
+
+# training variables
+WB_API_KEY: 6806c1503f4356dc1f8f73ed03efafca986cc9e4
+project: DQN-Cart-Pole-Tuning-v5
+
+...
