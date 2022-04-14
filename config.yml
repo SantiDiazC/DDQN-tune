@@ -11,7 +11,7 @@ mode: max
 num_samples: 4
 
 # training variables
-WB_API_KEY: 6806c1503f4356dc1f8f73ed03efafca986cc9e4
+WB_API_KEY: API_KEY
 project: DQN-Cart-Pole-Tuning-v5
 
 ...
